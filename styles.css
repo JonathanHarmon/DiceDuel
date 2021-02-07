@@ -1,0 +1,64 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color:#069c2e;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Londrina Solid', cursive;
+  text-shadow: 5px 0 #4f0204;
+  font-size: 9rem;
+  color: #9c060c;
+}
+
+h2 {
+  margin: 30px;
+  font-family: 'Londrina Solid', cursive;
+  font-size: 5rem;
+  color: #e82027;
+}
+
+p {
+  font-size: 2rem;
+  color:#9c060c;
+  font-family: 'Londrina Solid', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
+
+.refresh-button {
+
+  background-color:#004f15;
+  font-family: 'Londrina Solid', cursive;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+  margin-top: 50px;
+  cursor: pointer;
+}
